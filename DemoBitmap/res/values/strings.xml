@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoBitmap</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Define text generic -->
+    <string name="img_description">Image view</string>
+    
+    <!-- Activity string resource -->
+    <string name="activity_title">Demo Bitmap</string>
+    <string name="activity_btn__load_img">Load image</string>
+
+</resources>
